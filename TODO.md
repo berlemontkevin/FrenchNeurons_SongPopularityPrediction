@@ -1,3 +1,4 @@
 # TODO
 
-- First step would be to do an exploratory analysis of the data 
+- What to do with missign data? 
+- Should we try to modify the strangiest distributions?
